@@ -5,4 +5,5 @@ google_analytics:
 theme: jekyll-theme-cayman
 github: 
   repository_org: https://github.com/CityChrone
-  opendata: 
+  user: 
+repository: CityChrone/CityChrone.github.io
