@@ -1,4 +1,8 @@
+title: CityChrone project
+description: code and open-data of CityChrone Project
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-cayman
-
-title: [CityChrone project]
-description: [code and open-data of CityChrone Project]
+github: 
+  repository_org: https://github.com/CityChrone
+  opendata: 
